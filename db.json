@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "raj",
+      "email": "raj2@gmail.com",
+      "company": "raj",
+      "isActive": false,
+      "role": "user",
+      "id": 13
+    },
+    {
+      "name": "mudit jain",
+      "email": "mudit.jain@lmsin.com",
+      "company": "LMS solutions pvt ltd",
+      "isActive": true,
+      "role": "user",
+      "id": 14
+    }
+  ]
+}
